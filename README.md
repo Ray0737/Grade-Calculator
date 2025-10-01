@@ -1,1 +1,3 @@
-# Grade-Calculator
+# Grade Calculator
+
+** ONLY PROTOTYPE [OPERATIONAL] **
