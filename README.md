@@ -1,3 +1,5 @@
 # Grade Calculator
 
-** ONLY PROTOTYPE [OPERATIONAL] **
+** Side Project **
+
+Current Version: 1.0.0 
